@@ -1,0 +1,20 @@
+.searchBanner{
+    background-image: url("https://image.freepik.com/free-photo/top-view-meat-sauce-soup-with-greens-potatoes-dark-desk_140725-76774.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchContainer{
+    font-weight: bold;
+    /* color: #7FFFD4; */
+    color: whitesmoke;
+}
+.inputField{
+    border-radius: 20px;
+}

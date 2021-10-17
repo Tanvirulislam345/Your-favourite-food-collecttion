@@ -1,0 +1,4 @@
+.cardStyle:hover{
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 10px;
+}
